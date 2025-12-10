@@ -28,3 +28,9 @@ docker compose up -d --build
 API runs at: http://localhost:8080
 
 #### GUI is available at: http://localhost:8080/scalar/v1
+
+#### Default Available Users:
+- john@test.test (Admin)
+- sven@test.test (Manager)
+- odin@test.test (Employee)
+- Password for all users: Secret123!
